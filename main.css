@@ -1,0 +1,189 @@
+body {
+  font-family: 'Source-sans-pro', sans-serif;
+  font-size: 20px;
+  color: #7d8076;
+  width: 1366px;
+  margin: 0px auto;
+  height: 3085px;
+}
+
+#gear {
+   height: 520px;
+}
+
+#meat {
+  height: 600px;
+}
+
+#gear-header, #gear-footer {
+  height: 145px;
+}
+
+
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+
+}
+
+.half-width {
+  width: 600px;
+  float: left;
+}
+
+.third-width {
+  width: 400px;
+  float: left;
+}
+
+header {
+  height: 760px;
+  background: url('../img/main.png');
+  background: cover;
+  background-repeat: no-repeat;
+  border-bottom: 20px solid #7d8076;
+}
+
+header h1 {
+  font-family: 'Capture it', sans-serif;
+  font-size: 72px;
+  color: #293549;
+  padding-top: 70px;
+  text-align: center;
+  line-height: 120%;
+  padding-right: 280px;
+}
+
+header h1 span {
+  font-size: 100px;
+  text-align: center;
+  color: #bf3f1c;
+}
+
+nav {
+  float: right;
+  padding: 20px 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  font-family: 'Capture it';
+  text-decoration: none;
+  font-size: 18px;
+  color: #7d8076;
+  padding-left: 60px;
+}
+
+#gear-header  {
+  background: url('../img/bluemask.png');
+  background-repeat: repeat-x;
+  border-bottom: 20px solid #7d8076;
+}
+
+#gear {
+  background: #293549;
+  margin: 0 auto;
+}
+
+#gear h2 {
+  text-align: center;
+  padding: 40px 0px 0px 0px;
+  font-family: 'Capture it', sans-serif;
+  font-weight: bold;
+  font-size: 64px;
+  margin: 0 auto;
+}
+
+#gear a {
+  text-decoration: none;
+  color: #bf3f1c;
+}
+
+#gear p {
+  text-align: center;
+  padding: 20px 30px 20px 30px;
+  font-family: 'Capture it', sans-serif;
+  font-size: 30px;
+  line-height: 150%;
+  word-spacing: 5px;
+}
+
+#gear-footer {
+  border-top: 20px solid #7d8076;
+  border-bottom: 20px solid #7d8076;
+  background: url('../img/redmask.png');
+  background-repeat: repeat-x;
+}
+
+#meat {
+  background: #f2dbbb;
+
+
+}
+
+#meat h2 {
+  font-family: 'Capture it', sans-serif;
+  font-size: 54px;
+  text-align: center;
+  color: #293549;
+  letter-spacing: 3px;
+  word-spacing: 5px;
+  line-height: 100%;
+}
+
+ #meat img {
+  padding-left: 140px;
+  padding-top: 30px;
+}
+
+#meat p {
+  font-family: 'Source-sans-pro', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: #7d8076;
+  line-height: 140%;
+}
+
+footer {
+  background: #455163;
+  clear: both;
+  border-top: 20px solid #7d8076;
+  border-bottom: 20px solid #7d8076;
+  height: 300px;
+}
+
+footer h3 {
+  font-size: 30px;
+  text-align: center;
+  color: #7d8076;
+}
+
+footer h3 span {
+  color: #bf3f1c;
+  font-family: 'satisfy', serif;
+  font-size: 52px;
+}
+
+
+#tank img {
+  padding: 0 0 10px 40px;
+}
+
+footer h4  {
+  font-family: 'Capture it', sans-serif;
+  font-size: 42px;
+  margin: 0 auto;
+  padding-right: 20px;
+}
+
+footer #contact {
+  text-decoration: none;
+  color: #7d8076;
+  font-size: 26px;
+  line-height: 140%;
+  padding: 0;
+  }
